@@ -1,13 +1,13 @@
-# gender_classification
+# Gender Classification
 A gender classifier using the sci-kit learn library in just about 10 lines of code
 
-##Dependencies
+## Dependencies
 
 1. Scikit-learn (http://scikit-learn.org/stable/install.html)
 2. numpy (pip install numpy)
 3. scipy (pip install scipy)
 
-##Usage
+## Usage
 
 Once you have your dependencies installed via pip, run the script in terminal via
 ```
