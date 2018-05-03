@@ -15,4 +15,4 @@ python demo.py
 ```
 ## Credits
 
-Credits for some of the code go to [chrisben](https://github.com/chribsen) and [Siraj Raval] (https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A).
+Credits for some of the code go to [chrisben](https://github.com/chribsen) and [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A).
