@@ -7,4 +7,10 @@ A gender classifier using the sci-kit learn library in just about 10 lines of co
 2. numpy (pip install numpy)
 3. scipy (pip install scipy)
 
-redits for some of the code go to chribsen
+##Usage
+
+Once you have your dependencies installed via pip, run the script in terminal via
+
+python demo.py
+
+Credits for some of the code go to https://github.com/chribsen.
